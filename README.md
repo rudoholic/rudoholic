@@ -3,8 +3,10 @@
 </div>
 <br>
 <div align="center">
-<img width="680" alt="Untitled90_20261005144449" src="https://github.com/user-attachments/assets/b5393a43-e7ac-4f2f-8238-66e851dc2258" />
-<img width="736" alt="Untitled104_20261005141216" src="https://github.com/user-attachments/assets/0a00f5f4-f0fe-4ab8-8a82-83e02b5e3f38" />
+  <img width="680" alt="Untitled90_20261005144449" src="https://github.com/user-attachments/assets/6a696926-6dea-4920-848b-3d6209f8a840" />
+  
+<div align="center">
+<img width="734" height="114" alt="Untitled102_20261005141152" src="https://github.com/user-attachments/assets/ce8195a4-b34f-4519-9c10-4642e537dd03" />
 
 <div align="right">
 <img width="200" alt="Untitled72_20261005135626" src="https://github.com/user-attachments/assets/e78cbacc-47a1-4d1d-9d0a-2b19e240d121" />
@@ -22,10 +24,11 @@
     
 <div align="center">
 <img width="540" alt="37E1C466-7BB0-4CAD-8353-30B6775C5B36" src="https://github.com/user-attachments/assets/23ef023e-6283-49a7-bb41-a94515a38811" />
-  
+
 <div align="center">
 <img width="680" alt="Untitled90_20261005144449" src="https://github.com/user-attachments/assets/45c16754-44f6-4f1e-833b-ac8991a8a654" />
-
+  <div align="center">
+<img width="300" alt="Untitled100_20261005141133" src="https://github.com/user-attachments/assets/a3a20374-ca99-413b-8276-598eb89971b1" />
 
 <div align="left">
 <img width="300" alt="Untitled72_20261005140701" src="https://github.com/user-attachments/assets/ac0a284f-ce0d-4d6a-be40-294dc412bddd" />
@@ -33,4 +36,5 @@
 <div align="right">
 <img width="300" alt="Untitled72_20261005141033" src="https://github.com/user-attachments/assets/97bdebe5-ca58-43a6-8c77-01a90410c8ea" />
 <img width="680" alt="Untitled90_20261005144449" src="https://github.com/user-attachments/assets/c4415565-0dd9-4384-811e-a4d04f1bfba4" />
-<img width="733" alt="Untitled100_20261005141133" src="https://github.com/user-attachments/assets/a3a20374-ca99-413b-8276-598eb89971b1" />
+<img width="734" alt="Untitled102_20261005141145" src="https://github.com/user-attachments/assets/8f59ad3f-eb4f-45f5-823d-29d8fd641a39" />
+
